@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 诸葛佐's Blog
+title: 诸葛佐的博客
 subtitle:
 description:
 author: 诸葛佐
@@ -77,9 +77,23 @@ search:
   path: search.xml
   field: post
 
-#duoshuo_shortname: zhugezuo
+# 多说评论系统
+duoshuo_shortname: zhugezuo
+
+# 百度统计
 baidu_analytics: a5b0fd53c69c787a4f06940c79bf230a
-#jiathis: true
+
+# Google分析
+google_analytics: 83633076-1
+
+# 内容分享
+jiathis: true
+
+# 多说热评文章
+duoshuo_hotartical: false
+
+# Google站点管理工具
+google_site_verification: ktepKWOz06asBBgvs-SXd0a9uq1t2leeFyRdzD5Hdxg
 
 index_generator:
   per_page: 5
