@@ -1,5 +1,5 @@
 ---
-title: about
+title: My resume
 date: 2016-09-02 16:07:35
 tags: 
 - Resume
