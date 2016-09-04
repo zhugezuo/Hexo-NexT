@@ -121,10 +121,10 @@ social:
   Email: mailto:zhugezuo@foxmail.com
   GitHub: https://github.com/zhugezuo
   Twitter: https://twitter.com/zhugezuo
-  知乎: https://www.zhihu.com/people/zhugezuo
+#  知乎: https://www.zhihu.com/people/zhugezuo
   Facebook: https://www.facebook.com/zhugezuo
-  微博: http://weibo.com/zhugelm
-  豆瓣: https://www.douban.com/people/52233983/
+#  微博: http://weibo.com/zhugelm
+#  豆瓣: https://www.douban.com/people/52233983/
   
   
 
@@ -403,8 +403,8 @@ alipay: /images/alipay.jpg
 
 links_title: 友情链接
 links:
-  MacTalk: http://macshuo.com/
-  Title: http://example.com/
+  Hexo: https://hexo.io/
+  NexT: http://theme-next.iissnan.com/
 
 wechat_subscriber:
   enabled: true
