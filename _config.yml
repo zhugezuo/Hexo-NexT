@@ -26,7 +26,12 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+
+# 跳过渲染
+skip_render: 
+- README.md
+- baidu_verify_NTAnrGLWLi.html
+- baidu_verify_cnSLCAKXTU.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -106,4 +111,3 @@ archive_generator:
 
 tag_generator:
   per_page: 10
-
