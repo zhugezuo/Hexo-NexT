@@ -92,8 +92,12 @@ jiathis: true
 # 多说热评文章
 duoshuo_hotartical: false
 
-# Google站点管理工具
+# Google站点管理
 google_site_verification: ktepKWOz06asBBgvs-SXd0a9uq1t2leeFyRdzD5Hdxg
+
+# 百度站点管理
+baidu-site-verification: HOciiz4QkW
+
 
 index_generator:
   per_page: 5
