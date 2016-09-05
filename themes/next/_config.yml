@@ -410,3 +410,5 @@ wechat_subscriber:
   enabled: true
   qcode: /images/wechat-qcode.jpg
   description: 欢迎您扫一扫上面的微信，加我好友！
+
+skip_render: README.md
