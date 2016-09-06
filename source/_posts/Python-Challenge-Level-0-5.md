@@ -2,15 +2,16 @@
 title: Python Challenge (Level 0-5)
 date: 2016-09-04 09:19:11
 tags:
-- Python Challenge
 - python
+- Python Challenge
 categories:
+- python
 - Python Challenge
 ---
 # 简介
 Python Challenge是一个过关式的解谜站点，使用的是经典在线解谜站点Not Pr0n的模式：根据提示找出下一关的网页地址。和Not Pr0n不同的是，在每一关里你都需要编写程序来寻找答案。虽然这个解谜站点的名字叫做Python Challenge，但事实上你可以使用任意一种程序语言（除了少数一两关可能会用到点Python的知识），目前总共有33关。
 **挑战地址:** [Python Challenge](http://www.pythonchallenge.com/)
-<!-- more --> 
+<!-- more -->
 
 
 # [第0关](http://www.pythonchallenge.com/pc/def/0.html)
@@ -36,7 +37,7 @@ str.maketrans(intab, outtab)
 
 **intab** -- 字符串中要替代的字符组成的字符串。
 **outtab** -- 相应的映射字符的字符串。
-上述代码的打印结果为“i hope you didnt translate it by hand. thats what computers are for. doing it in by hand is inefficient and that's why this text is so long. using string.maketrans() is recommended. now apply on the url.” 
+上述代码的打印结果为“i hope you didnt translate it by hand. thats what computers are for. doing it in by hand is inefficient and that's why this text is so long. using string.maketrans() is recommended. now apply on the url.”
 再对地址栏中的"map"进行转换，得到下一关地址：http://www.pythonchallenge.com/pc/def/ocr.html
 
 
@@ -64,7 +65,7 @@ print(sorted(d.items(), key=lambda x:x[1]))
 import re
 text = """
 # 省略字符串
-""" 
+"""
 print("".join(re.findall('[^A-Z][A-Z]{3}([a-z])[A-Z]{3}[^A-Z]', text)))
 ```
 
