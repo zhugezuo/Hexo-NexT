@@ -4,7 +4,7 @@ date: 2016-09-06 14:04:25
 tags:
 - Python
 categories:
-- python
+- Python
 ---
 大家都知道，目前python有2.x版本和3.x版本，python3相比python2有很大的改进，很多人都会选择python3入门，但是由于很多环境自带的都是python2，而且很多库也只支持python2，所以我们经常会在python2和python3上跑不同的程序。下面就来介绍如何在同一台电脑上安装python2和python3，并且相互独立。
 <!-- more -->

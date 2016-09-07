@@ -2,10 +2,10 @@
 title: Python Challenge (Level 6-10)
 date: 2016-09-04 20:18:24
 tags:
-- python
+- Python
 - Python Challenge
 categories:
-- python
+- Python
 - Python Challenge
 ---
 # [第6关](http://www.pythonchallenge.com/pc/def/channel.html)

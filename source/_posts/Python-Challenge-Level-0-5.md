@@ -2,10 +2,10 @@
 title: Python Challenge (Level 0-5)
 date: 2016-09-04 09:19:11
 tags:
-- python
+- Python
 - Python Challenge
 categories:
-- python
+- Python
 - Python Challenge
 ---
 # 简介
