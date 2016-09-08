@@ -18,6 +18,8 @@ Windows下，安装Scrapy前需要先安装以下依赖包：
 根据操作系统选择[pywin32-220.win-amd64-py2.7.exe](http://downloads.sourceforge.net/project/pywin32/pywin32/Build%20220/pywin32-220.win-amd64-py2.7.exe?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpywin32%2Ffiles%2Fpywin32%2FBuild%2520220%2F&ts=1473259515&use_mirror=nchc)
 - *Twisted:* [下载地址](https://twistedmatrix.com/Releases/Twisted/15.4/)
 根据操作系统选择[Twisted-15.4.0.win-amd64-py2.7.exe](https://twistedmatrix.com/Releases/Twisted/15.4/Twisted-15.4.0.win-amd64-py2.7.exe)
+
+下面的*pyOpenSSL*和*zope.interface*是*Twisted*的依赖包，可以自动安装，如果失败，再手动下载安装
 - *pyOpenSSL:* [下载地址](https://pypi.python.org/pypi/pyOpenSSL/0.13.1)
 根据操作系统选择[pyOpenSSL-0.13.1.win-amd64-py2.7.exe](https://pypi.python.org/packages/a9/3f/65276ba1b19cbd678a3f3876cd7fa739fd9fd23e2f87f08668e701b9cb60/pyOpenSSL-0.13.1.win-amd64-py2.7.exe#md5=223cc4ab7439818ccaf1bf7f51736dc8)
 - *zope.interface:* [下载地址](https://pypi.python.org/pypi/zope.interface/4.3.2)

@@ -13,7 +13,7 @@ categories:
 1. 首先去[官网](https://www.python.org/downloads/)下载并安装python2和python3。
 2. 将两个安装路径以及路径下的Scripts目录都添加进环境变量PATH中：
 
-> ;C:\Python\Python3\Scripts\;C:\Python\Python3\;C:\Python\Python2\Scripts\;C:\Python\Python2\
+> ;C:\Python3\Scripts\;C:\Python3\;C:\Python2\Scripts\;C:\Python2\
 
 3. 将Python2目录下的python.exe修改为python2.exe
 4. 分别执行python和python2即可启动相应版本的python
